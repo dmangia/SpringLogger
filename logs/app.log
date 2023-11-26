@@ -1,0 +1,17 @@
+2023-11-25 11:25:09,977 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-3] FATAL ERROR
+2023-11-25 11:25:10,687 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-4] FATAL ERROR
+2023-11-25 11:26:56,545 INFO com.dailycodebuffer.SpringLoggingApplication [main] Starting SpringLoggingApplication on cornb7050 with PID 12824 (D:\SANDBOX\Spring\SpringLogging\target\classes started by MangiaD in D:\SANDBOX\Spring\SpringLogging)
+2023-11-25 11:26:56,553 DEBUG com.dailycodebuffer.SpringLoggingApplication [main] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2023-11-25 11:26:56,556 INFO com.dailycodebuffer.SpringLoggingApplication [main] No active profile set, falling back to default profiles: default
+2023-11-25 11:27:00,338 INFO com.dailycodebuffer.SpringLoggingApplication [main] Started SpringLoggingApplication in 4.696 seconds (JVM running for 5.931)
+2023-11-25 11:27:04,309 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-1] FATAL ERROR
+2023-11-25 11:27:05,005 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-2] FATAL ERROR
+2023-11-25 11:27:05,458 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-3] FATAL ERROR
+2023-11-25 11:27:53,616 INFO com.dailycodebuffer.SpringLoggingApplication [main] Starting SpringLoggingApplication on cornb7050 with PID 6208 (D:\SANDBOX\Spring\SpringLogging\target\classes started by MangiaD in D:\SANDBOX\Spring\SpringLogging)
+2023-11-25 11:27:53,629 DEBUG com.dailycodebuffer.SpringLoggingApplication [main] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2023-11-25 11:27:53,630 INFO com.dailycodebuffer.SpringLoggingApplication [main] No active profile set, falling back to default profiles: default
+2023-11-25 11:27:57,621 INFO com.dailycodebuffer.SpringLoggingApplication [main] Started SpringLoggingApplication in 4.986 seconds (JVM running for 6.269)
+2023-11-25 11:27:57,817 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-1] FATAL ERROR
+2023-11-25 11:27:58,541 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-2] FATAL ERROR
+2023-11-25 11:27:59,036 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-3] FATAL ERROR
+2023-11-25 11:27:59,451 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-4] FATAL ERROR

@@ -1,0 +1,34 @@
+2023-11-25 10:56:46,163 INFO com.dailycodebuffer.SpringLoggingApplication [main] Starting SpringLoggingApplication on cornb7050 with PID 18600 (D:\SANDBOX\Spring\SpringLogging\target\classes started by MangiaD in D:\SANDBOX\Spring\SpringLogging)
+2023-11-25 10:56:46,193 DEBUG com.dailycodebuffer.SpringLoggingApplication [main] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2023-11-25 10:56:46,197 INFO com.dailycodebuffer.SpringLoggingApplication [main] No active profile set, falling back to default profiles: default
+2023-11-25 10:56:51,085 INFO com.dailycodebuffer.SpringLoggingApplication [main] Started SpringLoggingApplication in 6.277 seconds (JVM running for 8.226)
+2023-11-25 10:57:10,631 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-1] FATAL ERROR
+2023-11-25 11:07:05,724 INFO com.dailycodebuffer.SpringLoggingApplication [main] Starting SpringLoggingApplication on cornb7050 with PID 2136 (D:\SANDBOX\Spring\SpringLogging\target\classes started by MangiaD in D:\SANDBOX\Spring\SpringLogging)
+2023-11-25 11:07:05,751 DEBUG com.dailycodebuffer.SpringLoggingApplication [main] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2023-11-25 11:07:05,753 INFO com.dailycodebuffer.SpringLoggingApplication [main] No active profile set, falling back to default profiles: default
+2023-11-25 11:07:12,001 INFO com.dailycodebuffer.SpringLoggingApplication [main] Started SpringLoggingApplication in 7.674 seconds (JVM running for 9.721)
+2023-11-25 11:13:12,444 INFO com.dailycodebuffer.SpringLoggingApplication [main] Starting SpringLoggingApplication on cornb7050 with PID 10124 (D:\SANDBOX\Spring\SpringLogging\target\classes started by MangiaD in D:\SANDBOX\Spring\SpringLogging)
+2023-11-25 11:13:12,450 DEBUG com.dailycodebuffer.SpringLoggingApplication [main] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2023-11-25 11:13:12,451 INFO com.dailycodebuffer.SpringLoggingApplication [main] No active profile set, falling back to default profiles: default
+2023-11-25 11:13:16,440 INFO com.dailycodebuffer.SpringLoggingApplication [main] Started SpringLoggingApplication in 4.81 seconds (JVM running for 6.09)
+2023-11-25 11:13:43,953 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-1] FATAL ERROR
+2023-11-25 11:15:17,808 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-4] FATAL ERROR
+2023-11-25 11:21:22,470 INFO com.dailycodebuffer.SpringLoggingApplication [main] Starting SpringLoggingApplication on cornb7050 with PID 1768 (D:\SANDBOX\Spring\SpringLogging\target\classes started by MangiaD in D:\SANDBOX\Spring\SpringLogging)
+2023-11-25 11:21:22,476 DEBUG com.dailycodebuffer.SpringLoggingApplication [main] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2023-11-25 11:21:22,477 INFO com.dailycodebuffer.SpringLoggingApplication [main] No active profile set, falling back to default profiles: default
+2023-11-25 11:21:25,871 INFO com.dailycodebuffer.SpringLoggingApplication [main] Started SpringLoggingApplication in 4.111 seconds (JVM running for 5.23)
+2023-11-25 11:21:44,241 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-1] FATAL ERROR
+2023-11-25 11:21:45,868 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-2] FATAL ERROR
+2023-11-25 11:23:36,219 INFO com.dailycodebuffer.SpringLoggingApplication [main] Starting SpringLoggingApplication on cornb7050 with PID 18288 (D:\SANDBOX\Spring\SpringLogging\target\classes started by MangiaD in D:\SANDBOX\Spring\SpringLogging)
+2023-11-25 11:23:36,226 DEBUG com.dailycodebuffer.SpringLoggingApplication [main] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2023-11-25 11:23:36,227 INFO com.dailycodebuffer.SpringLoggingApplication [main] No active profile set, falling back to default profiles: default
+2023-11-25 11:23:40,277 INFO com.dailycodebuffer.SpringLoggingApplication [main] Started SpringLoggingApplication in 4.865 seconds (JVM running for 6.216)
+2023-11-25 11:23:44,713 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-1] FATAL ERROR
+2023-11-25 11:23:46,086 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-3] FATAL ERROR
+2023-11-25 11:23:46,837 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-4] FATAL ERROR
+2023-11-25 11:25:03,961 INFO com.dailycodebuffer.SpringLoggingApplication [main] Starting SpringLoggingApplication on cornb7050 with PID 10832 (D:\SANDBOX\Spring\SpringLogging\target\classes started by MangiaD in D:\SANDBOX\Spring\SpringLogging)
+2023-11-25 11:25:03,970 DEBUG com.dailycodebuffer.SpringLoggingApplication [main] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2023-11-25 11:25:03,970 INFO com.dailycodebuffer.SpringLoggingApplication [main] No active profile set, falling back to default profiles: default
+2023-11-25 11:25:08,044 INFO com.dailycodebuffer.SpringLoggingApplication [main] Started SpringLoggingApplication in 5.03 seconds (JVM running for 6.193)
+2023-11-25 11:25:08,192 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-1] FATAL ERROR
+2023-11-25 11:25:09,230 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-2] FATAL ERROR
