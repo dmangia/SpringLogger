@@ -36,8 +36,8 @@
         <smtpHost>smtp.gmail.com</smtpHost>
         <smtpPort>465</smtpPort>
         <STARTTLS>true</STARTTLS>
-        <username>chymeras82@gmail.com</username>
-        <password>19722012@</password>
+        <username>xxx</username>
+        <password>xxxx</password>
         <to>daniele.mangia@gmail.com</to>
         <from>emailid</from>
         <subject>TESTING: %logger{20} - %m</subject>
